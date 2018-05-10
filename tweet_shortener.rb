@@ -43,5 +43,6 @@ def bulk_tweet_shortener(tweets)
   result
 end
 
-def slect
+def selective_tweet_shortener(tweet)
+end
 
