@@ -59,8 +59,4 @@ def shortened_tweet_truncator(tweet)
   else
      tweet
   end
-  # if short_tweet.size > 140
-  #   short_tweet[0...137] << '...'
-  # end
 end
-
