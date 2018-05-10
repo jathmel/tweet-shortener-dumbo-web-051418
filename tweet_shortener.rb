@@ -51,5 +51,6 @@ def selective_tweet_shortener(tweet)
   end
 end
 
-def shor
+def shortened_tweet_truncator(tweet)
+end
 
