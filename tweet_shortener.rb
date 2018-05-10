@@ -26,6 +26,7 @@ def word_substituter(tweet)
   'and' => '&'
 }
   tweet.split.map do |word|
+    
     if dictionary.include?(word)
       word = dictionary[word]
     else
